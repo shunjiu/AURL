@@ -29,6 +29,8 @@ python run.py --mode=sl_user --device=cuda:0
 ```
 
 ### RL train
+
 ```shell
 python run.py --simulator_num=2 --device=cuda:0
 ```
+The template file is currently being applied for publication.
