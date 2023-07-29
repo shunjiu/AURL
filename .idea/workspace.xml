@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20d63c15-3c2e-4713-b623-1f88b53049dd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="22d763CCmjZOioaRXqzNTKXxHva" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/managers" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/simulators" />
+      <recent name="$PROJECT_DIR$/src/dataLoader" />
+      <recent name="$PROJECT_DIR$/src/corpus" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_diversity">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiusersimulator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/simulators/multiusersimulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pretrain_user" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pretrain_user.py" />
+      <option name="PARAMETERS" value="--test_user" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1 " />
+        <env name="RAY_EXPERIMENTAL_NOSET_CUDA_VISIBLE_DEVICES" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="--description=test" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="supervised_learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/supervised_learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_diversity" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_diversity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_one_to_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_one_to_one.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="policy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/utilities/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.multiusersimulator" />
+      <item itemvalue="Python.pretrain_user" />
+      <item itemvalue="Python.test_diversity" />
+      <item itemvalue="Python.download" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.supervised_learning" />
+      <item itemvalue="Python.train_one_to_one" />
+      <item itemvalue="Python.util" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python.train_one_to_one" />
+        <item itemvalue="Python.supervised_learning" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.download" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20d63c15-3c2e-4713-b623-1f88b53049dd" name="Changes" comment="" />
+      <created>1640155432136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640155432136</updated>
+      <workItem from="1640155433428" duration="82000" />
+      <workItem from="1640155626913" duration="289000" />
+      <workItem from="1640156619427" duration="15097000" />
+      <workItem from="1640587495341" duration="14594000" />
+      <workItem from="1640696128253" duration="2102000" />
+      <workItem from="1640743159047" duration="18638000" />
+      <workItem from="1640829854867" duration="5128000" />
+      <workItem from="1640835394011" duration="26996000" />
+      <workItem from="1641778492465" duration="7756000" />
+      <workItem from="1642122679950" duration="545000" />
+      <workItem from="1642296281745" duration="75000" />
+      <workItem from="1642296397748" duration="2971000" />
+      <workItem from="1643169267701" duration="233000" />
+      <workItem from="1644111141759" duration="38000" />
+      <workItem from="1644111214101" duration="40186000" />
+      <workItem from="1646055802900" duration="2357000" />
+      <workItem from="1646104185674" duration="588000" />
+      <workItem from="1646123879570" duration="912000" />
+      <workItem from="1646182996874" duration="12163000" />
+      <workItem from="1646291312795" duration="12221000" />
+      <workItem from="1646623754143" duration="29126000" />
+      <workItem from="1646962407533" duration="5176000" />
+      <workItem from="1646981202817" duration="48264000" />
+      <workItem from="1647568349598" duration="226000" />
+      <workItem from="1647568809871" duration="48000" />
+      <workItem from="1647568868489" duration="941000" />
+      <workItem from="1647585172277" duration="14206000" />
+      <workItem from="1647856698769" duration="8917000" />
+      <workItem from="1647947942553" duration="43697000" />
+      <workItem from="1648389201279" duration="935000" />
+      <workItem from="1648448495962" duration="12172000" />
+      <workItem from="1648544746289" duration="26000" />
+      <workItem from="1648544782699" duration="20000" />
+      <workItem from="1648544813118" duration="72231000" />
+      <workItem from="1649343419941" duration="103000" />
+      <workItem from="1649380934475" duration="29000" />
+      <workItem from="1649380975482" duration="13000" />
+      <workItem from="1649381000256" duration="5384000" />
+      <workItem from="1649638763760" duration="8308000" />
+      <workItem from="1649673129738" duration="5281000" />
+      <workItem from="1649726590277" duration="8634000" />
+      <workItem from="1649757810697" duration="26000" />
+      <workItem from="1649757851601" duration="63000" />
+      <workItem from="1649757926788" duration="27037000" />
+      <workItem from="1649940249885" duration="1415000" />
+      <workItem from="1649941862394" duration="9770000" />
+      <workItem from="1650013299726" duration="127000" />
+      <workItem from="1650013435437" duration="52000" />
+      <workItem from="1650013541382" duration="21745000" />
+      <workItem from="1650846691698" duration="34029000" />
+      <workItem from="1651147389333" duration="10415000" />
+      <workItem from="1651218231337" duration="1000" />
+      <workItem from="1651470901542" duration="19932000" />
+      <workItem from="1651737619670" duration="1178000" />
+      <workItem from="1651841642885" duration="22314000" />
+      <workItem from="1652153256046" duration="1501000" />
+      <workItem from="1652166820355" duration="505000" />
+      <workItem from="1652231803647" duration="4908000" />
+      <workItem from="1652277130621" duration="296000" />
+      <workItem from="1652277516664" duration="12671000" />
+      <workItem from="1652358533031" duration="18647000" />
+      <workItem from="1652839069650" duration="10802000" />
+      <workItem from="1655219180459" duration="123000" />
+      <workItem from="1655466964433" duration="808000" />
+      <workItem from="1655533459572" duration="14000" />
+      <workItem from="1655683399198" duration="2049000" />
+      <workItem from="1655766714672" duration="38000" />
+      <workItem from="1655855762434" duration="1133000" />
+      <workItem from="1656331808249" duration="2703000" />
+      <workItem from="1656374690898" duration="42000" />
+      <workItem from="1656590087942" duration="1047000" />
+      <workItem from="1656892123463" duration="549000" />
+      <workItem from="1657023057794" duration="623000" />
+      <workItem from="1657417907582" duration="463000" />
+      <workItem from="1657419376186" duration="6000" />
+      <workItem from="1657496789293" duration="394000" />
+      <workItem from="1657585092411" duration="826000" />
+      <workItem from="1657800215384" duration="214000" />
+      <workItem from="1658026295297" duration="14000" />
+      <workItem from="1658026366018" duration="11466000" />
+      <workItem from="1658101321832" duration="1177000" />
+      <workItem from="1658708045753" duration="68000" />
+      <workItem from="1659361834553" duration="5748000" />
+      <workItem from="1659448812709" duration="2097000" />
+      <workItem from="1659533138835" duration="672000" />
+      <workItem from="1660090768005" duration="140000" />
+      <workItem from="1660443735224" duration="617000" />
+      <workItem from="1660522469766" duration="260000" />
+      <workItem from="1662019610971" duration="8478000" />
+      <workItem from="1663250922056" duration="208000" />
+      <workItem from="1663461899582" duration="3916000" />
+      <workItem from="1663579949170" duration="3626000" />
+      <workItem from="1663898637176" duration="961000" />
+      <workItem from="1663904933213" duration="175000" />
+      <workItem from="1664151048886" duration="858000" />
+      <workItem from="1664411786286" duration="2097000" />
+      <workItem from="1664765084951" duration="706000" />
+      <workItem from="1664933085497" duration="853000" />
+      <workItem from="1665021740330" duration="971000" />
+      <workItem from="1665026485140" duration="1410000" />
+      <workItem from="1665028482435" duration="2392000" />
+      <workItem from="1665062816653" duration="1362000" />
+      <workItem from="1665364384081" duration="788000" />
+      <workItem from="1665367251611" duration="688000" />
+      <workItem from="1665639255277" duration="2248000" />
+      <workItem from="1665665642189" duration="2191000" />
+      <workItem from="1665741278250" duration="518000" />
+      <workItem from="1665742987560" duration="567000" />
+      <workItem from="1666092642467" duration="831000" />
+      <workItem from="1666317495780" duration="622000" />
+      <workItem from="1666515715165" duration="507000" />
+      <workItem from="1666534525581" duration="2976000" />
+      <workItem from="1666595426603" duration="616000" />
+      <workItem from="1667179575040" duration="1010000" />
+      <workItem from="1667796738105" duration="3056000" />
+      <workItem from="1668389465657" duration="887000" />
+      <workItem from="1668495794800" duration="905000" />
+      <workItem from="1668994298761" duration="1358000" />
+      <workItem from="1669183721274" duration="2821000" />
+      <workItem from="1669287603861" duration="1602000" />
+      <workItem from="1669619831425" duration="306000" />
+      <workItem from="1669620473005" duration="131000" />
+      <workItem from="1676680494722" duration="1503000" />
+      <workItem from="1678250153142" duration="196000" />
+      <workItem from="1683352469718" duration="965000" />
+      <workItem from="1684680774439" duration="625000" />
+      <workItem from="1688773901895" duration="1705000" />
+      <workItem from="1688907140045" duration="624000" />
+      <workItem from="1689294781071" duration="637000" />
+      <workItem from="1690623351600" duration="308000" />
+      <workItem from="1690623679021" duration="55000" />
+      <workItem from="1690623754586" duration="107000" />
+      <workItem from="1690623872936" duration="2139000" />
+      <workItem from="1690626073112" duration="445000" />
+    </task>
+    <task id="LOCAL-00001" summary="embedding policy">
+      <created>1640787931369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640787931369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="no embedding policy and sl train complete">
+      <created>1640848609464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640848609464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="system policy slot using model">
+      <created>1641779801648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641779801648</updated>
+    </task>
+    <task id="LOCAL-00004" summary="offline test first result">
+      <created>1641806762561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641806762561</updated>
+    </task>
+    <task id="LOCAL-00005" summary="offline test first result model slot 1102">
+      <created>1641868598608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641868598608</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1v1fsa first run">
+      <created>1645321258232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645321258233</updated>
+    </task>
+    <task id="LOCAL-00007" summary="one user model interact over">
+      <created>1646096885672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646096885672</updated>
+    </task>
+    <task id="LOCAL-00008" summary="no user rl bug but bad policy">
+      <created>1646376725099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646376725099</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pushed data">
+      <created>1646378373550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646378373550</updated>
+    </task>
+    <task id="LOCAL-00010" summary="reduce user act">
+      <created>1646634945389</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646634945389</updated>
+    </task>
+    <task id="LOCAL-00011" summary="pretrain user to begin rl. fix user policy later">
+      <created>1646708239825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646708239825</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zero to rl 1v1model">
+      <created>1646808020839</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1646808020839</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add tensorboard">
+      <created>1646811285138</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1646811285138</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix fsa bug">
+      <created>1646896089799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646896089799</updated>
+    </task>
+    <task id="LOCAL-00015" summary="change user model to origin">
+      <created>1647225963710</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647225963710</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ready to add history in user model when training">
+      <created>1647250985674</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1647250985674</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ready to add actor-critic">
+      <created>1647757221046</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1647757221046</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added actor-critic">
+      <created>1647945569305</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1647945569305</updated>
+    </task>
+    <task id="LOCAL-00019" summary="1v1 train">
+      <created>1647997982061</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1647997982061</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new transformer user complete">
+      <created>1648040248108</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1648040248108</updated>
+    </task>
+    <task id="LOCAL-00021" summary="new transformer user complete">
+      <created>1648040254457</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1648040254457</updated>
+    </task>
+    <task id="LOCAL-00022" summary="change slot loss buckup">
+      <created>1648124419250</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1648124419250</updated>
+    </task>
+    <task id="LOCAL-00023" summary="return simulator v2">
+      <created>1648209474882</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1648209474882</updated>
+    </task>
+    <task id="LOCAL-00024" summary="change sys rule slot">
+      <created>1648450707479</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1648450707479</updated>
+    </task>
+    <task id="LOCAL-00025" summary="sys rule slot finish">
+      <created>1648465943846</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1648465943846</updated>
+    </task>
+    <task id="LOCAL-00026" summary="sys rule slot finish">
+      <created>1648466138537</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1648466138537</updated>
+    </task>
+    <task id="LOCAL-00027" summary="train rl in data">
+      <created>1648470912921</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1648470912921</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ready to add a3c">
+      <created>1648646949227</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648646949227</updated>
+    </task>
+    <task id="LOCAL-00029" summary="a3c over, ready to add more lin jie pairs">
+      <created>1648697127423</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648697127423</updated>
+    </task>
+    <task id="LOCAL-00030" summary="transformer based dst">
+      <created>1648710135598</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1648710135598</updated>
+    </task>
+    <task id="LOCAL-00031" summary="transformer based dst finish">
+      <created>1649166223847</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1649166223847</updated>
+    </task>
+    <task id="LOCAL-00032" summary="transformer sys best result">
+      <created>1649217228255</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1649217228255</updated>
+    </task>
+    <task id="LOCAL-00033" summary="whatis best dst acc">
+      <created>1649382887219</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1649382887219</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add state value in log">
+      <created>1649726907537</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1649726907537</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix crossrntropy bug and add ppo">
+      <created>1649747812487</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1649747812487</updated>
+    </task>
+    <task id="LOCAL-00036" summary="413 a2c works 20k buckup">
+      <created>1649897643128</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1649897643128</updated>
+    </task>
+    <task id="LOCAL-00037" summary="user model nlu 98 slot">
+      <created>1650013021319</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1650013021319</updated>
+    </task>
+    <task id="LOCAL-00038" summary="user model nlu 98 slot">
+      <created>1650166164070</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1650166164070</updated>
+    </task>
+    <task id="LOCAL-00039" summary="train a3c">
+      <created>1650358750204</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1650358750204</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add more adj and fix user fsa bug">
+      <created>1650855343620</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1650855343620</updated>
+    </task>
+    <task id="LOCAL-00041" summary="重构代码">
+      <created>1651114023317</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1651114023317</updated>
+    </task>
+    <task id="LOCAL-00042" summary="one to one">
+      <created>1651196947484</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1651196947484</updated>
+    </task>
+    <task id="LOCAL-00043" summary="sys dst add rule fix">
+      <created>1651737918122</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1651737918122</updated>
+    </task>
+    <task id="LOCAL-00044" summary="sys dst and user nlu trainable when rl learning">
+      <created>1652142626648</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1652142626648</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix user inform_update and update_">
+      <created>1652315576355</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652315576355</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add curriculum learning">
+      <created>1652669686716</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652669686716</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add reward normal. ready to add rl for dst">
+      <created>1652751554113</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1652751554113</updated>
+    </task>
+    <task id="LOCAL-00048" summary="ready to add ppo">
+      <created>1658101382939</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1658101382939</updated>
+    </task>
+    <task id="LOCAL-00049" summary="717 and 725 kc best">
+      <created>1659399601424</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1659399601424</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="0ccf2fa6-a7cd-4661-94c2-971795cdda54">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/zhangsai/Desktop/policy/src/utilities" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="return simulator v2" />
+    <MESSAGE value="change sys rule slot" />
+    <MESSAGE value="sys rule slot finish" />
+    <MESSAGE value="train rl in data" />
+    <MESSAGE value="ready to add a3c" />
+    <MESSAGE value="a3c over, ready to add more lin jie pairs" />
+    <MESSAGE value="transformer based dst" />
+    <MESSAGE value="transformer based dst finish" />
+    <MESSAGE value="transformer sys best result" />
+    <MESSAGE value="whatis best dst acc" />
+    <MESSAGE value="add state value in log" />
+    <MESSAGE value="fix crossrntropy bug and add ppo" />
+    <MESSAGE value="413 a2c works 20k buckup" />
+    <MESSAGE value="user model nlu 98 slot" />
+    <MESSAGE value="train a3c" />
+    <MESSAGE value="add more adj and fix user fsa bug" />
+    <MESSAGE value="重构代码" />
+    <MESSAGE value="one to one" />
+    <MESSAGE value="sys dst add rule fix" />
+    <MESSAGE value="sys dst and user nlu trainable when rl learning" />
+    <MESSAGE value="fix user inform_update and update_" />
+    <MESSAGE value="add curriculum learning" />
+    <MESSAGE value="add reward normal. ready to add rl for dst" />
+    <MESSAGE value="ready to add ppo" />
+    <MESSAGE value="717 and 725 kc best" />
+    <option name="LAST_COMMIT_MESSAGE" value="717 and 725 kc best" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/managers/Ross_manager.py</url>
+          <line>665</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/managers/Ross_manager.py</url>
+          <line>687</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/zhangsai/Desktop/policy/test.ipynb</url>
+          <line>218</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="jupyter-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="bs_vector" />
+        <watch expression="[cfg.sys_act_id2name[i] for i in sys_act]" language="Python" />
+        <watch expression="[cfg.user_act_id2name[i] for i in user_act]" language="Python" />
+        <watch expression="self.bs_vector" />
+        <watch expression="cfg.user_act_id2name[act_num]" language="Python" />
+        <watch expression="cfg.sys_act_id2name[sys_act]" language="Python" />
+        <watch expression="torch.sum(p_user_act == user_act)" />
+        <watch expression="p_user_act" language="Python" />
+        <watch expression="[cfg.user_act_id2name[i] for i in p_user_act]" language="Python" />
+        <watch expression="user_act" language="Python" />
+        <watch expression="torch.argmax(p_user_act, dim=-1)" language="Python" />
+        <watch expression="self.goal_value" language="Python" />
+        <watch expression="response" language="Python" />
+        <watch expression="utterance" language="Python" />
+        <watch expression="simulator.goal_value" language="Python" />
+        <watch expression="utterance" language="Python" />
+        <watch expression="cfg.sys_act_id2name[act_num]" language="Python" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/dataLoader/user_dataset.py" line="291">
+        <watch expression="bs_vector" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/system/interlocution.py" line="36">
+        <watch expression="cfg.sys_act_id2name[manager_act]" language="Python" />
+      </inline-watch>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/test_and_analyse.py" line="87">
+        <watch expression="cfg.user_act_id2name[sim.sys_act]" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/policy$util.coverage" NAME="util Coverage Results" MODIFIED="1651737665854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/utilities" />
+    <SUITE FILE_PATH="coverage/policy$multiusersimulator.coverage" NAME="multiusersimulator Coverage Results" MODIFIED="1640834547129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/policy$main.coverage" NAME="main Coverage Results" MODIFIED="1646963663373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$user_dataset.coverage" NAME="user_dataset Coverage Results" MODIFIED="1640785487624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$run.coverage" NAME="run Coverage Results" MODIFIED="1652968401668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$train_one_to_one.coverage" NAME="train_one_to_one Coverage Results" MODIFIED="1651199310391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy_kc$test_diversity.coverage" NAME="test_diversity Coverage Results" MODIFIED="1662035868278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$test_and_analyse.coverage" NAME="test_and_analyse Coverage Results" MODIFIED="1644713146430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$test_diversity.coverage" NAME="test_diversity Coverage Results" MODIFIED="1651651582870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$train_rl_in_data.coverage" NAME="train_rl_in_data Coverage Results" MODIFIED="1648468896760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$config_new.coverage" NAME="config_new Coverage Results" MODIFIED="1649833663175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/utilities" />
+    <SUITE FILE_PATH="coverage/policy$interlocution.coverage" NAME="interlocution Coverage Results" MODIFIED="1641804713779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/system" />
+    <SUITE FILE_PATH="coverage/policy$pretrain_user.coverage" NAME="pretrain_user Coverage Results" MODIFIED="1650547283133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$pretrain_sys.coverage" NAME="pretrain_sys Coverage Results" MODIFIED="1648889106815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$train_one_to_many.coverage" NAME="train_one_to_many Coverage Results" MODIFIED="1646879960532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$supervised_learning.coverage" NAME="supervised_learning Coverage Results" MODIFIED="1652320462218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$weighted_rule_simulator.coverage" NAME="weighted_rule_simulator Coverage Results" MODIFIED="1650850130477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/" />
+    <SUITE FILE_PATH="coverage/policy$download.coverage" NAME="download Coverage Results" MODIFIED="1652405808506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/policy$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1646376553245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/opt/anaconda3/envs/zs/lib/python3.8/site-packages/torch/cuda" />
+  </component>
+</project>
